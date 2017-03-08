@@ -1,0 +1,5 @@
+{
+  "vsicons.presets.angular": false,
+  "javascript.validate.enable": false,
+  "flow.pathToFlow": "../node_modules/flow-bin/flow-osx-v0.41.0/flow"
+}s
