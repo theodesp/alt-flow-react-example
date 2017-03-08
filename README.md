@@ -12,6 +12,6 @@ yarn install
 ## Running
 
 ```shell
-# Using yarn or npm using create-react-app commands
+# Using yarn or npm using any create-react-app commands
 yarn start
 ```
